@@ -12,14 +12,14 @@ import { en, es, id, ar, pt, de, it } from './lib/idiomas/total-idiomas.js'
 // ES ➜ Si desea recibir reportes debe de usar los tres parámetros (Número, nombre y true)
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
-global.owner = [
-['5214774444444', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈
-['593968263524', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 🌻🐈', true],
-['5218715746374'],
-['5492266613038'], 
-['595976126756'],
-['593968585383'],
-['51968382008']]
+global.owner = [+527354098585]
+['+525511536860', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈
+['+56957282313', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 🌻🐈', true],
+['+523327176081'],
+['+51921942812'], 
+['+573145110536'],
+['+5049681-5093'],
+['']]
 
 global.mods = [] 
 global.prems = []
@@ -28,7 +28,7 @@ global.prems = []
 global.gataJadibts = true
 
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
-global.isBaileysFail = true
+global.isBaileysFail = false
 
 // ❰❰ methodCode ❱❱
 // [ES] > Agregue el número del Bot en "botNumberCode" si desea recibir código de 8 dígitos sin registrar el número en la consola.
