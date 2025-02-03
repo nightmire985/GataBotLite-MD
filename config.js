@@ -19,10 +19,10 @@ global.owner = ['527354098585','Metal-Sonic',true]
 ['523327176081','Zefir🪳',true]
 ['51921942812','Ari-dylan🦭',true]
 ['573145110536','N-Murder',true]
-['5049681-5093','Waxy🤖',true]
+['50496815093','Waxy🤖',true]
 
 global.mods = [5] 
-global.prems = []
+global.prems = [5]
 
 // Cambiar a false para desactivar en "auto-reconexion" de sub-bots
 global.gataJadibts = false
@@ -33,7 +33,7 @@ global.isBaileysFail = false
 // ❰❰ methodCode ❱❱
 // [ES] > Agregue el número del Bot en "botNumberCode" si desea recibir código de 8 dígitos sin registrar el número en la consola.
 // [EN] > Add the Bot number in "botNumberCode" if you want to receive 8-digit code without registering the number in the console.
-global.botNumberCode = "" //example: "+59309090909"
+global.botNumberCode = "+525511536860" //example: "+59309090909"
 global.confirmCode = "" // No tocar esto : Do not touch this line
 
 // ES ➜ Agregue el código de idioma el cual usará GataBot  
@@ -90,7 +90,7 @@ global.APIKeys = {
   'https://api-xcoders.site': 'Frieren'
 }
 
-global.mods = [] 
+global.mods = [5] 
 global.cheerio = cheerio
 global.fs = fs
 global.fetch = fetch
@@ -109,10 +109,10 @@ global.official = [
 ['5214434703586', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
 ['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
-global.mail = '' //agrega tú correo
+global.mail = 'alguien181716@gmail.com' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.country = '🇲🇽' //agrega tú país ejemplo: 🇪🇨
 
 global.vs = '1.4.0'
 global.vsJB = '5.0 (beta)'
