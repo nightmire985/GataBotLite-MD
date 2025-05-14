@@ -12,22 +12,23 @@ import { en, es, id, ar, pt, de, it } from './lib/idiomas/total-idiomas.js'
 // ES ➜ Si desea recibir reportes debe de usar los tres parámetros (Número, nombre y true)
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
-global.owner = ['527354098585','Metal-Sonic',true]
-['525511536860', 'METALBOTSONIC', true], //METALSONIC-𝙈𝘿 🌻🐈
-['593968263524', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 🌻🐈', true]
-['549387520-2628','J-pasado💛👹',true]
-['549387220-5503','Yoru🦭',true]
-['524662021216','Geto',true]
-['50496815093','Waxy🤖',true]
+global.owner = ['527354098585','Metal-Sonic','true']
+['525511536860', 'METALBOTSONIC', 'true'], //METALSONIC-𝙈𝘿 🌻🐈
+['593968263524', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 🌻🐈', 'true']
+['549387520-2628','J-pasado💛👹','true']
+['549387220-5503','Yoru🦭','true']
+['524662021216','Geto','true']
+['50496815093','Waxy🤖','true']
+['523327176081','Pinkie👹⚡','true']
 
 global.mods = [5] 
 global.prems = [5]
 
 // Cambiar a false para desactivar en "auto-reconexion" de sub-bots
-global.gataJadibts = true
+global.gataJadibts = 'true'
 
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
-global.isBaileysFail = false
+global.isBaileysFail = 'false'
 
 // ❰❰ methodCode ❱❱
 // [ES] > Agregue el número del Bot en "botNumberCode" si desea recibir código de 8 dígitos sin registrar el número en la consola.
